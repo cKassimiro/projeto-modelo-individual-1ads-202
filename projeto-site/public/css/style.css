@@ -11,6 +11,18 @@ body {
 
 }
 
+.btn-index {
+    color: white;
+    background-color:  #bf7788;
+    border: 0;
+    padding: 10px 20px;
+
+    border-radius: 5px;
+    cursor: pointer;
+
+    font-family: consolas, monospace;
+}
+
 .container { 
     width: 80%;
     margin: auto;
@@ -108,7 +120,7 @@ a {
 
 .novidades {
     background-color: #232323;
-    height: 90px;
+    overflow:auto;
 }
 
 .novidades .container {
@@ -119,7 +131,6 @@ a {
     color: rgb(216, 216, 216);
     margin-top: 0;
     padding-top: 0;
-    float: left;
     font-weight: 400;
 }
 
@@ -138,6 +149,10 @@ a {
     border: 0;
     height: 38px;
     padding: 0 20px;
+}
+
+.saber-mais {
+    text-align: center;
 }
 
 /* ICONES */

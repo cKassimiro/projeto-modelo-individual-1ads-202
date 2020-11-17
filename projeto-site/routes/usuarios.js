@@ -18,7 +18,7 @@ router.post('/autenticar', function(req, res, next) {
 	sequelize.query(instrucaoSql, {
 		model: Usuario
 	}).then(resultado => {
-		console.log(`Encontrados: ${resultado.length}`);
+		console.log(`Encontrados: ${resultado.length}`); 
 
 		if (resultado.length == 1) {
 			sessoes.push(resultado[0].dataValues.login);
