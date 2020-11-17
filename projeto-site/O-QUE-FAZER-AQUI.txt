@@ -22,7 +22,7 @@ username, password, database, host
    6.1. CASO o passo #2 tenha dado certo: Apenas aguarde alguns segundos para testar novamente
    6.2. CASO o passo #2 NÃO tenha dado certo: Volte para o git bash que está em execução e tecle CTRL+C. Apenas execute o comando do passo #4 novamente
    
-OBS: As vezes a atualização automática prometida no item #6.1 simplesmente não ocorre. Nesse caso, Volte para o git bash que está em execução e tecle CTRL+C. Apenas execute o comando do passo #3 novamente
+OBS: Às vezes a atualização automática prometida no item #6.1 simplesmente não ocorre. Nesse caso, Volte para o git bash que está em execução e tecle CTRL+C. Apenas execute o comando do passo #3 novamente
 
 *Parte 3*
 1. É necessário adicionar os arquivos do SEU projeto individual. Adicione na pasta public e faça as alterações necessárias.
